@@ -39,7 +39,9 @@ export function HeaderApp() {
             <div className="col-12 col-sm-4 col-md-4 sesion">
               {Object.keys(user).length ? (
                 <ul className="list-inline">
-                  <li className="list-inline-item">{user.name}</li>
+                  <li className="list-inline-item">
+                    <Link to="/user-profile">{user.name}</Link>
+                  </li>
                   <li className="list-inline-item">|</li>
                   <li className="list-inline-item">
                     <span className="glyphicon glyphicon-log-out"></span>

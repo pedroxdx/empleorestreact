@@ -97,7 +97,7 @@ header .container .row .sesion {
 /*************************      SECTION  BUSCADOR      **************************************/
 
 section.buscador {
-  background: url('/assets/images/header/header1.jpg') no-repeat center;
+  background: url('../images/header/header1.jpg') no-repeat center;
   background-size: cover;
   font-size: 16px;
   color: #FFF;
@@ -132,7 +132,7 @@ section.buscador .container .row article.busqueda {
 /*************************      SECTION  NOSOTROS HEADER      **************************************/
 
 section.nosotros-header {
-  background: url('/assets/images/header/nosotros-header.jpg') no-repeat center;
+  background: url('../images/header/nosotros-header.jpg') no-repeat center;
   background-size: cover;
   font-size: 16px;
   color: #FFF;
@@ -200,7 +200,7 @@ section.empleo-ideal .container .row p strong {
 
 section.bar {
   margin-top: 50px;
-  background: url('/assets/images/barman.jpg') no-repeat center;
+  background: url('../images/barman.jpg') no-repeat center;
   font-size: 16px;
   color: #FFF;
   height: 800px;
@@ -242,7 +242,7 @@ section.bar .container .row p {
 /*************************      SECTION  CONTACTO HEADER      **************************************/
 
 section.contacto-header {
-  background: url('/assets/images/header/contacto-header.jpg') no-repeat center;
+  background: url('../images/header/contacto-header.jpg') no-repeat center;
   background-size: cover;
   font-size: 16px;
   color: #FFF;
@@ -357,7 +357,7 @@ section.restaurante .container .row p strong {
 
 section.servicios {
   margin-top: 10px;
-  background: url('/assets/images/servicios.jpg') no-repeat center;
+  background: url('../images/servicios.jpg') no-repeat center;
   background-size: cover;
   color: #FFF;
   /*height: 396px;*/
@@ -475,7 +475,7 @@ footer .container .row p {
 
 section.page-header {
   padding: 20px 0;
-  background: url('/assets/images/header/empleos-header.jpg');
+  background: url('../images/header/empleos-header.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
